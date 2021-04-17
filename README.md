@@ -6,7 +6,7 @@ want to play and if you like to begin. Your opponent will be stupid AI
 (at least for now). When somebody wins (you or AI) the game will ask if you
 want to play another one.
 
-###How to control the game:
+### How to control the game:
     - every move you will choose coordinates (row col <both integers>),
         where to put your symbol
     - please make sure you separate them with any whitespace (eg. tab)
