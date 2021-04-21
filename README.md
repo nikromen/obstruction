@@ -55,7 +55,7 @@ public IP address of your friend and also don't forget to use the `--port`.
 How to connect to the game above: `./obstruction --connect friend's_public_ip
 --port 5050`  
 ### Update
-    first of all if you want to create the server, you need to do port 
+    first of all if you want to create the game, you need to do port 
     forwarding and also the way how the online mode is done is not secure
     for you at all so I am working on alternative (I guess I will need
     remote host).
